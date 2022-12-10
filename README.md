@@ -1,4 +1,4 @@
-Hello, I'm MaiNeimIsPizza but my real name is Matti
+Hello, I'm Matti :)
 
 📚 - I'm currently learning Python and C# (a little bit but I'm focusing on Python)
 
