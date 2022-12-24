@@ -4,6 +4,6 @@ Hello, I'm Matti :)
 
 🗺️ - I'm from Italy 🍕🍕
 
-🤙 - You can reach me on Discord, my username is PaninoLogic0#7014
+🤙 - You can reach out to me on Discord, my username is PaninoLogic0#7014
 
 😄😄😄😄
