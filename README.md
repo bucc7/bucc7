@@ -14,12 +14,12 @@ mostly
 Very limited knowledge in:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" height="48">
-<div>
-    <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" width="40" height="40">
+<div align="left">
+    <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" width="40">
     <img width="12">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png" width="40">
     <img width="12">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/960px-Official_CSS_Logo.svg.png" width="40">
 </div>
 
 ## (for meme purposes) contributed to friends' READMEs
