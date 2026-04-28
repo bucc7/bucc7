@@ -1,4 +1,7 @@
-![h](https://raw.githubusercontent.com/bucc7/bucc7/main/hello.gif)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/bucc7/bucc7/main/hello.gif">    
+</div>
+
 <h2 align="center">👋 I'm Mattia 👨‍💻</h2>
 
 ###
