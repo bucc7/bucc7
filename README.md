@@ -8,7 +8,7 @@
 
 Italian student, passionate about technology and programming.
 
-In high school, planning on CS @ [UniGE](https://unige.it/)
+CS @ [UniGE](https://unige.it/)
 
 ## Languages I use:
 mostly
